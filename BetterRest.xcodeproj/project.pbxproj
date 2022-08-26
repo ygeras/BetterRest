@@ -12,6 +12,7 @@
 		B1586811282E0AAF001322CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1586810282E0AAF001322CC /* Assets.xcassets */; };
 		B1586814282E0AB0001322CC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1586813282E0AB0001322CC /* Preview Assets.xcassets */; };
 		B158681B282F6866001322CC /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = B158681A282F6866001322CC /* SleepCalculator.mlmodel */; };
+		B1F281C928B8A8D900BD0C65 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B1F281C828B8A8D900BD0C65 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		B1586810282E0AAF001322CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1586813282E0AB0001322CC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B158681A282F6866001322CC /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
+		B1F281C828B8A8D900BD0C65 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +39,7 @@
 		B1586800282E0AAB001322CC = {
 			isa = PBXGroup;
 			children = (
+				B1F281C828B8A8D900BD0C65 /* README.md */,
 				B158680B282E0AAB001322CC /* BetterRest */,
 				B158680A282E0AAB001322CC /* Products */,
 			);
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1F281C928B8A8D900BD0C65 /* README.md in Resources */,
 				B1586814282E0AB0001322CC /* Preview Assets.xcassets in Resources */,
 				B1586811282E0AAF001322CC /* Assets.xcassets in Resources */,
 			);
